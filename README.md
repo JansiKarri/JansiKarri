@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @JansiKarri
--  A passionate Java Full Stack Developer
-- 👀 I’m interested in learning trending technologies
-- 🌱 I’m currently learning Full Stack courses in Tech Wing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, Jansi Karri
+#### Java Full Stack Trainee
+![Java Full Stack Trainee](https://www.freecodecamp.org/news/content/images/2023/01/fullstack.png)
 
-<!---
-JansiKarri/JansiKarri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Jansi Karri ,a passionate computer science student. And I am presently learning Java Full Stack Course  in Tech Wing as a trainee . I really enjoy learning languages and new booming technologies.
+
+Skills:  HTML / CSS / JS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jansi karri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Jansi karri/)  
