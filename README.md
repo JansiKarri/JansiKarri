@@ -4,11 +4,13 @@
 
 I'm Jansi Karri ,a passionate computer science student. And I am presently learning Java Full Stack Course  in Tech Wing as a trainee . I really enjoy learning languages and new booming technologies.
 
-Skills:  HTML / CSS / JS
+Skills: 
+HTML / CSS / JS
+Java
+Python
 
-- 🔭 I’m currently working on this page. 
 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jansi karri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Jansi karri/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/JansiKarri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ karri-jansi-28847a25b/)  
